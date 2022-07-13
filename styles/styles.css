@@ -1416,7 +1416,7 @@ footer .container-socials svg {
     -ms-grid-row: 1;
     -ms-grid-column: 1;
     grid-area: box1;
-    height: 90vh;
+    height: 100vh;
   }
   .hero .box2 {
     -ms-grid-row: 2;
