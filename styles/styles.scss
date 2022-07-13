@@ -1093,7 +1093,7 @@ footer {
 @media only screen and (max-width: 900px) {
     nav {
         .navContainer {
-            justify-content: start;
+            justify-content: flex-start;
             .nav-links {
                 .primary-nav {
                     background-image: $gradient;
