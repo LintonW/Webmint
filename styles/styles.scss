@@ -1093,6 +1093,7 @@ footer {
 @media only screen and (max-width: 900px) {
     nav {
         .navContainer {
+            justify-content: start;
             .nav-links {
                 .primary-nav {
                     background-image: $gradient;
@@ -1207,7 +1208,7 @@ footer {
 
         .box1 {
             grid-area: box1;
-            height: 65vh;
+            height: 75vh;
         }
         .box2 {
             grid-area: box2;
@@ -1217,7 +1218,7 @@ footer {
     .hero-s {
         height: 30vh;
         .box1 {
-            height: 20vh;
+            height: 15vh;
         }
     }
 
