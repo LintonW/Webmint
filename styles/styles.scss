@@ -1208,7 +1208,7 @@ footer {
 
         .box1 {
             grid-area: box1;
-            height: 85vh;
+            height: 90vh;
         }
         .box2 {
             grid-area: box2;
@@ -1225,6 +1225,7 @@ footer {
     .Iservices-section {
         min-height: 100vh;
         margin: 0em;
+        padding-top: 2em;
         .Iservices-container {
             height: 100%;
             grid-template-columns: 1fr;

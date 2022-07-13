@@ -1416,7 +1416,7 @@ footer .container-socials svg {
     -ms-grid-row: 1;
     -ms-grid-column: 1;
     grid-area: box1;
-    height: 85vh;
+    height: 90vh;
   }
   .hero .box2 {
     -ms-grid-row: 2;
@@ -1432,6 +1432,7 @@ footer .container-socials svg {
   .Iservices-section {
     min-height: 100vh;
     margin: 0em;
+    padding-top: 2em;
   }
   .Iservices-section .Iservices-container {
     height: 100%;
