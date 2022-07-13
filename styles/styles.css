@@ -35,7 +35,7 @@ nav .navContainer {
 
 nav .navContainer .logo img {
   height: 32px;
-  width: 100%;
+  width: 13em;
 }
 
 nav .navContainer .nav-links ul {
@@ -1300,11 +1300,6 @@ footer .container-socials svg {
 }
 
 @media only screen and (max-width: 900px) {
-  nav .navContainer {
-    -webkit-box-pack: start;
-        -ms-flex-pack: start;
-            justify-content: flex-start;
-  }
   nav .navContainer .nav-links .primary-nav {
     background-image: -webkit-gradient(linear, left top, right top, color-stop(-24%, #87e6df), to(#8cdaa8));
     background-image: linear-gradient(90deg, #87e6df -24%, #8cdaa8 100%);
