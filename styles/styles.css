@@ -1400,7 +1400,7 @@ footer .container-socials svg {
   }
   .hero {
     margin-top: 1em;
-    height: 100vh;
+    min-height: 100vh;
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
     -ms-grid-rows: 1fr 3fr;
@@ -1422,7 +1422,7 @@ footer .container-socials svg {
     height: 30vh;
   }
   .hero-s .box1 {
-    height: 25vh;
+    height: 20vh;
   }
   .Iservices-section {
     min-height: 100vh;
